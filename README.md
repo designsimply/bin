@@ -1,0 +1,1 @@
+This is a collection of small and mostly not very useful scripts and config files.
